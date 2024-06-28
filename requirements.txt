@@ -6,4 +6,3 @@ cryptg
 tgcrypto
 https://github.com/KurimuzonAkuma/pyrogram
 python-decouple
-https://github.com/AkRao47/pyrogram
